@@ -1,0 +1,10 @@
+#!/bin/perl
+
+$rstring = random_string(5);
+print($rstring);
+
+sub random_string {
+my $string_length = $_[0];
+my @chars=('a'..'z', 'A'..'Z', _, 0..9);
+join '',map {$chars[rand @chars]} 1..$string_length;
+}

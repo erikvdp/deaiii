@@ -1,0 +1,17 @@
+resultaten rquery(=5) op rsequence (9751 resultaten)
+search1: 1.015
+search2: 1.155
+search3: 0.316
+resultaten rquery(=10) op rsequence
+search1: 1.010
+search2: 1.032
+search3: 0.180
+resultaten rquery(=15) op rsequence(1 resultaat)
+search1: 1.092
+search2: 1.028
+search3: 0.285
+resultaten rquery(=20) op rsequence(0 resultaten)
+search1: 1.045
+search2: 1.002
+search3: 0.186
+
